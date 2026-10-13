@@ -1,0 +1,15 @@
+﻿{
+    "version":  "2.3.0",
+    "notes":  "Skill trees for every class (25 skills each), new buff spells, armour pictures, secret Summoner skins, Warden aura, tougher bosses, gear kept between runs, bug fixes",
+    "content":  [
+                    {
+                        "name":  "pack_arcane.json",
+                        "url":  "pack_arcane.json",
+                        "sha256":  "9066a6b78b83eb59b349cc59b467710672c84290135eb77c27cf47daf081721b"
+                    }
+                ],
+    "pck":  {
+                "url":  "game.pck",
+                "sha256":  "16d49a4a708a4a4dae16dc5d99f201e62ea181369551361e893d3a3d0aa7b3b4"
+            }
+}
