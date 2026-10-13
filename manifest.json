@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.4.0",
-    "notes":  "MULTIPLAYER! Host a game or join a friend by code. Co-op expeditions (2x monsters, tougher), revive fallen friends, and a PVP lobby with duels.",
+    "version":  "2.4.1",
+    "notes":  "HARDER! Gear lasts one expedition, skill points every 3rd level, new spells every 5th level, way more monsters (a LOT while a beacon charges), tougher guardians, sealed boss gate, co-op: see your friends\u0027 spells and summons, everyone is pulled into the boss arena.",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "ec3a231aec8a9b031282275e3d61c185ebca0b55441aa3ca115b6b3774380c5f"
+                "sha256":  "75d4d1d761f8531f6ef573b5c73ce49c1885e28b3bd8ee394b07846547f4be43"
             }
 }
