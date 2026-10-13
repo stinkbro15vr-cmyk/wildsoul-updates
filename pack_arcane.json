@@ -1,0 +1,52 @@
+{
+  "name": "Arcane & Shadow Expansion",
+  "version": "1.0",
+  "classes": {
+    "stormcaller": {
+      "name": "Stormcaller", "weapon": "staff", "icon": "bolt", "color": "#8ab8ff", "model": "spellweaver",
+      "desc": "Rides the tempest. Right-click: Chain Lightning that stuns whole packs. Learns thunder, storms and skybolts.",
+      "mods": {"spirit": 0.18, "move": 0.05, "cdr": 0.05}, "alt": "lightning", "special": "lightning_rain"
+    },
+    "frostbinder": {
+      "name": "Frostbinder", "weapon": "staff", "icon": "snow", "color": "#9fe8ff", "model": "spellweaver",
+      "desc": "Controls the battlefield with ice. Right-click: piercing Frost Lance. Learns novas, blizzards and ice walls.",
+      "mods": {"spirit": 0.15, "armor": 3, "maxhp": 10}, "alt": "frost_lance", "special": "frost_nova"
+    },
+    "shadeblade": {
+      "name": "Shadeblade", "weapon": "melee", "icon": "skull", "color": "#b48aff", "model": "ranger",
+      "desc": "A fast, fragile assassin. Right-click: Blink Strike through enemies. Learns shurikens, clones and assassinations.",
+      "mods": {"melee": 0.12, "crit": 0.08, "move": 0.08, "maxhp": -10}, "alt": "blink_strike", "special": "shadow_dance"
+    },
+    "lifebinder": {
+      "name": "Lifebinder", "weapon": "staff", "icon": "leaf", "color": "#7affa0", "model": "summoner",
+      "desc": "A druid of living wood. Right-click: a thorny vine bolt. Learns healing, roots, sentries and treants.",
+      "mods": {"spirit": 0.10, "regen": 0.6, "maxhp": 15}, "alt": "vine_lash", "special": "healing_light"
+    }
+  },
+  "skins": {
+    "stormcaller": [
+      {"id": "thunderbird", "name": "Thunderbird", "cost": 0, "tunic": "#2a4a8a", "cloak": "#141f4a", "accent": "#e8f4ff", "glow": "#8ab8ff"},
+      {"id": "sparkweaver", "name": "Sparkweaver", "cost": 6, "tunic": "#8a6a1a", "cloak": "#4a3a10", "accent": "#fff0a0", "glow": "#ffe060", "gear": ["star_trim"]},
+      {"id": "tempestlord", "name": "Tempest Lord", "cost": 0, "chal": "stun150", "tier": 1, "gear": ["storm_orbs", "crystal_horns"], "tunic": "#3a4a7a", "cloak": "#10162f", "accent": "#bfe0ff", "glow": "#7aa8ff"},
+      {"id": "stormsovereign", "name": "Storm Sovereign", "cost": 0, "chal": "crit200", "tier": 2, "gear": ["storm_cape", "wings_storm", "aura_glow"], "tunic": "#1a2a5a", "cloak": "#0a0f2a", "accent": "#fff6b0", "glow": "#9fd0ff"}
+    ],
+    "frostbinder": [
+      {"id": "winterborn", "name": "Winterborn", "cost": 0, "tunic": "#5d8fb5", "cloak": "#2b4a67", "accent": "#e6f4ff", "glow": "#9fe8ff"},
+      {"id": "glacier", "name": "Glacier Sage", "cost": 6, "tunic": "#d8e8f0", "cloak": "#7a98a8", "accent": "#3a6a8a", "glow": "#60c8ff", "gear": ["star_trim"]},
+      {"id": "permafrost", "name": "Permafrost", "cost": 0, "chal": "chill120", "tier": 1, "gear": ["ice_armor", "crystal_horns"], "tunic": "#9ac8e0", "cloak": "#3a6a8a", "accent": "#ffffff", "glow": "#7ae0ff"},
+      {"id": "aurora", "name": "Aurora", "cost": 0, "chal": "elite20", "tier": 2, "gear": ["aurora_ribbons", "halo", "aura_glow"], "tunic": "#2a5a6a", "cloak": "#10304a", "accent": "#b0ffd8", "glow": "#80ffc8"}
+    ],
+    "shadeblade": [
+      {"id": "nightfall", "name": "Nightfall", "cost": 0, "tunic": "#2a2040", "cloak": "#120c20", "accent": "#b48aff", "glow": "#b48aff"},
+      {"id": "crimsonveil", "name": "Crimson Veil", "cost": 6, "tunic": "#6a1020", "cloak": "#30080f", "accent": "#ff8080", "glow": "#ff5060", "gear": ["night_scarf"]},
+      {"id": "umbral", "name": "Umbral", "cost": 0, "chal": "pdodge30", "tier": 1, "gear": ["mask", "shadow_wings"], "tunic": "#18142a", "cloak": "#08060f", "accent": "#a070ff", "glow": "#c090ff"},
+      {"id": "eclipse", "name": "Eclipse", "cost": 0, "chal": "secrets3", "tier": 2, "gear": ["mask", "shadow_wings", "halo", "aura_glow"], "tunic": "#0a0a14", "cloak": "#000000", "accent": "#ffd060", "glow": "#ffb030"}
+    ],
+    "lifebinder": [
+      {"id": "oakheart", "name": "Oakheart", "cost": 0, "tunic": "#3a7a4a", "cloak": "#5a4a2a", "accent": "#c8ff90", "glow": "#7affa0"},
+      {"id": "blossom", "name": "Blossom", "cost": 6, "tunic": "#c8607a", "cloak": "#7a3a4a", "accent": "#ffe0f0", "glow": "#ffa0d0", "gear": ["flower_crown"]},
+      {"id": "verdantavatar", "name": "Verdant Avatar", "cost": 0, "chal": "chests30", "tier": 1, "gear": ["vine_wrap", "flower_crown"], "tunic": "#2f6a3a", "cloak": "#1a4a22", "accent": "#ffe0a0", "glow": "#a0ff90"},
+      {"id": "worldtree", "name": "World Tree", "cost": 0, "chal": "win_any", "tier": 2, "gear": ["tree_antlers", "wings_leaf", "aura_glow"], "tunic": "#4a6a2a", "cloak": "#2a3a14", "accent": "#fff0a0", "glow": "#c8ff70"}
+    ]
+  }
+}
