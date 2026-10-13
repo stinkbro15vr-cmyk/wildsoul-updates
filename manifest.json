@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.3.0",
-    "notes":  "Skill trees for every class (25 skills each), new buff spells, armour pictures, secret Summoner skins, Warden aura, tougher bosses, gear kept between runs, bug fixes",
+    "version":  "2.4.0",
+    "notes":  "MULTIPLAYER! Host a game or join a friend by code. Co-op expeditions (2x monsters, tougher), revive fallen friends, and a PVP lobby with duels.",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "16d49a4a708a4a4dae16dc5d99f201e62ea181369551361e893d3a3d0aa7b3b4"
+                "sha256":  "ec3a231aec8a9b031282275e3d61c185ebca0b55441aa3ca115b6b3774380c5f"
             }
 }
