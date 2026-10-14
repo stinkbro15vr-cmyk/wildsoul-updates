@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.4.3",
-    "notes":  "Bigger skill trees (45 skills per class, only a few spells), weaker skeletons, and level-up cards can no longer be clicked by accident.",
+    "version":  "2.4.4",
+    "notes":  "Clean new animations (real knees, new walk, fixed melee combo), sealed boss arena, tougher melee classes, fewer boss minions, Soul Forge (permanent upgrades), Dev skins switch, key rebinding, Play Again and more settings.",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "0804de797ccb2fbcaae443df02209d9aa5042eaf3b6ecc7a0d6b7f0291470d35"
+                "sha256":  "f26977eed672a8d0dab7117a80046758ef19925929f82b0285d01a72983d16ed"
             }
 }
