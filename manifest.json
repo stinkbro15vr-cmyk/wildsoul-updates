@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.4.2",
-    "notes":  "Fix: auto-update keeps working after every update, and new versions show up right away.",
+    "version":  "2.4.3",
+    "notes":  "Bigger skill trees (45 skills per class, only a few spells), weaker skeletons, and level-up cards can no longer be clicked by accident.",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "ec1cb8e4fa32601ce619327efe8850eed79e0f012121d542f2859a654879e28a"
+                "sha256":  "0804de797ccb2fbcaae443df02209d9aa5042eaf3b6ecc7a0d6b7f0291470d35"
             }
 }
