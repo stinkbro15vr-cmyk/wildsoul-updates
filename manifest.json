@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.4.4",
-    "notes":  "Clean new animations (real knees, new walk, fixed melee combo), sealed boss arena, tougher melee classes, fewer boss minions, Soul Forge (permanent upgrades), Dev skins switch, key rebinding, Play Again and more settings.",
+    "version":  "2.5.0",
+    "notes":  "2.5 THE ROGUELIKE UPDATE: Soul Tree (grow stronger forever), rest in the Sanctuary after every guardian, choose your path, 32 relics + secret combos, starting boon, rerolls and banish, Amber Forge in every region, risky shrines, wandering trader, Lost Spirit challenge, roaming Champions, elite powers, bombs / knives / fury elixirs (G, X switches), achievements, run history and score, lore journal, unlockable classes, Heat 1-10, Daily Run, Endless, Boss Rush, challenges, new Forge and Beacon, friends see all your spells, gold orbs no longer get stuck in your chest.",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "f26977eed672a8d0dab7117a80046758ef19925929f82b0285d01a72983d16ed"
+                "sha256":  "0d2a33ab92a3070c070ff209bb551d549558c134871cc8cefb375267acbeb12c"
             }
 }
