@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.5.1",
-    "notes":  "2.5.1 FIX: the Continue to the next region popup (and the shrine and altar popups) can be clicked again. Also: a little health regeneration for everyone, a smoother death fall and dash, and spike traps as a new throwable (G).",
+    "version":  "2.5.2",
+    "notes":  "2.5.2 - every region now has its own MINI BOSS with a unique model (Moss Warlord, Briar Colossus, Frost Alpha, Crystal Brute, Heartbound Reaper, Forgotten Sentinel); EPIC boss music (choir, taiko drums, crashes, build-ups, and the music speeds up in later phases) and new boss sound effects; a MUCH bigger Soul Tree (12 branches, 372 buffs); Soul Seeds are now rare - 1 to 3 per region. Achievements pay fewer seeds too.",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "9b3e7b0b4822e7910b5884b964c63a71baf9b078d8f8d25aff57ec4938319ad3"
+                "sha256":  "d81b212631c3d78c28792764cd32512ed855d592d3976dd018e843ae50555a32"
             }
 }
