@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "2.5.0",
-    "notes":  "2.5 THE ROGUELIKE UPDATE: Soul Tree (grow stronger forever), rest in the Sanctuary after every guardian, choose your path, 32 relics + secret combos, starting boon, rerolls and banish, Amber Forge in every region, risky shrines, wandering trader, Lost Spirit challenge, roaming Champions, elite powers, bombs / knives / fury elixirs (G, X switches), achievements, run history and score, lore journal, unlockable classes, Heat 1-10, Daily Run, Endless, Boss Rush, challenges, new Forge and Beacon, friends see all your spells, gold orbs no longer get stuck in your chest.",
+    "version":  "2.5.1",
+    "notes":  "2.5.1 FIX: the Continue to the next region popup (and the shrine and altar popups) can be clicked again. Also: a little health regeneration for everyone, a smoother death fall and dash, and spike traps as a new throwable (G).",
     "content":  [
                     {
                         "name":  "pack_arcane.json",
@@ -10,6 +10,6 @@
                 ],
     "pck":  {
                 "url":  "game.pck",
-                "sha256":  "0d2a33ab92a3070c070ff209bb551d549558c134871cc8cefb375267acbeb12c"
+                "sha256":  "9b3e7b0b4822e7910b5884b964c63a71baf9b078d8f8d25aff57ec4938319ad3"
             }
 }
